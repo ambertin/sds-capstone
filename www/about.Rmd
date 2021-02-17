@@ -2,4 +2,17 @@
 title: "About Me"
 ---
 
-blah blah blah
+```{r, echo = FALSE}
+knitr::include_graphics("images/headshot.png")
+```
+
+
+I'm Audrey and I'm a senior Data Science Major / Public Policy minor at Smith College!
+
+I've had a longstanding interest in issues involving ethical data use. I've studied the potential impacts of universal translation tools, considered the dangers of predictive policing tools, and looked into potential policy solutions for combatting facial recognition as a tool for United States border control. 
+
+I've even built a website with a fellow Smith student which contains resources for those looking to find more information about bias and inequality in the data science world! (https://hmsnell.github.io/DataSci-ResourcesForChange/).
+
+On this blog, this semester, I will be writing about data ethics as part of the capstone course for my major! A lot of this writing will focus on the book *Data Feminism* by Catherine D'Ignazio and Lauren F. Klein, with some deviations as different topics in the book send me on tangents. I hope you'll come along for the ride!
+
+
