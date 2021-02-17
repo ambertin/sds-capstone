@@ -1,19 +1,18 @@
 ---
-title: "SDS Capstone S'21 Blog"
+title: "Audrey Bertin's SDS Capstone Blog"
 output:
   html_document:
     toc: false
 ---
 
-Write stuff in Markdown here. Like **bold** things and *italic* things. 
+Welcome to my blog! 
 
-And images:
+On this site, I'll be posting some thoughts on data (and data science) ethics, inspired by ideas discussed in the book *Data Feminism* by Catherine D'Ignazio and Lauren F. Klein.
 
-![](https://media.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif)
+I plan on covering a variety of topics and hope you will find something that interests you!
 
-And don't forget about R code:
-
-```{r}
-knitr::kable(mtcars)
+```{r, echo = FALSE, out.width = '50%'}
+knitr::include_graphics("images/data-feminism.jpg")
 ```
+
 

@@ -12,19 +12,19 @@ navbar:
     - text: "Blog"
       icon: fa-newspaper
       menu:
-        - text: "Post 1"
+        - text: "Was Christine Darden Lucky?"
           href: post1.html
-        - text: "Post 2"
+        - text: "Post 2 --- Coming Soon"
           href: post2.html
   right:
     - icon: fa-envelope 
-      href: mailto:bbaumer@smith.edu
+      href: mailto:abertin@smith.edu
     - icon: fa-github
-      href: http://www.github.com/beanumber
+      href: http://www.github.com/ambertin
     - icon: fa-twitter
-      href: http://www.twitter.com/BaumerBen
+      href: http://www.twitter.com/ambertin99
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/ben-baumer-809b3a75
+      href: https://www.linkedin.com/in/audrey-bertin-716499106/
 
 output:
   html_document:

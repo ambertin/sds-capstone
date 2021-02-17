@@ -13,6 +13,6 @@ I've had a longstanding interest in issues involving ethical data use. I've stud
 
 I've even built a website with a fellow Smith student which contains resources for those looking to find more information about bias and inequality in the data science world! (https://hmsnell.github.io/DataSci-ResourcesForChange/).
 
-On this blog, this semester, I will be writing about data ethics as part of the capstone course for my major! A lot of this writing will focus on the book *Data Feminism* by Catherine D'Ignazio and Lauren F. Klein, with some deviations as different topics in the book send me on tangents. I hope you'll come along for the ride!
+I hope you find something interesting on this blog! Hopefully, it should be covering a variety of aspects of data ethics, meaning there's something for everyone!
 
 
