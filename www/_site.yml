@@ -12,7 +12,7 @@ navbar:
     - text: "Blog"
       icon: fa-newspaper
       menu:
-        - text: "Was Christine Darden Lucky?"
+        - text: "Thoughts on the Luck of Christine Darden"
           href: post1.html
         - text: "Post 2 --- Coming Soon"
           href: post2.html
