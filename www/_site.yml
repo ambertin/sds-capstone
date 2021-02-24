@@ -14,7 +14,7 @@ navbar:
       menu:
         - text: "Thoughts on the Luck of Christine Darden"
           href: post1.html
-        - text: "Post 2 --- Coming Soon"
+        - text: "Data Ethics at Google"
           href: post2.html
   right:
     - icon: fa-envelope 

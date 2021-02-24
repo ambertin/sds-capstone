@@ -1,5 +1,34 @@
 ---
-title: "Response to Ch 1"
+title: "The Disturbing State of Data Ethics at Google"
 ---
 
-...stay tuned for an update here...
+Chapter 1 of *Data Feminism* focuses on power, arguing that those companies in control of much of society's data---e.g. Facebook, Google, Microsoft, and other massive tech giants---and who therefore have *power* over those data and their owners have a tendency to act in their own best interest rather than in the best interest of their customers or users. Data have become a powerful commodity, a tool harnessed by influential tech companies to expand their influence and increase their market control and, of course, their profits. 
+
+The part I find most disturbing about this, however, is not simply the fact that it is happening, but rather the way that it happens---covered up by companies who claim to do one thing, but whose actions tell a completely different story. Powerful companies will often take a public stance on data ethics, stating their commitment to fair data use to the public or starting working groups in their organizations with the apparent purpose of discussing issues of fairness and bias in data. Behind closed doors, however, their actions will not work toward those same goals, and sometimes may actually undermine them.
+
+The case of Google's Ethical AI Team stands out in my mind as one of the more egregious examples of this behavior. 
+
+Google has employed a team of researchers for a while, whose job, according to Google, was to help try and reduce bias and other ethical issues in the AI/machine learning products produced by the company. Google, by creating this team, seemingly hoped to portray to the public that it was committed to fairness and was taking extra precautions to ensure that its algorithms did not lead to harmful or unjust algorithms. The company even created and publicized a list of ethical AI principles to further put this effort into words: https://ai.google/principles/
+
+However, in its recent actions, Google leadership has dismantled the work of this ethical AI team, attempted to prevented some of their findings from being published, and fired several of the main members of the team under reasons that seemed highly questionable.
+
+Timnit Gebru is one of those people who was caught in the crossfire---just a few months ago, in December 2020. Gebru, one of the few Black women leaders in the AI industry, is a pioneer in the field of responsible and ethical technology. In her last few months at Google, she was conducting a research project, which discovered flaws in a new type of language technology, including in a Google system that helps with the company's search engine. After writing a paper on it, she gave it to Google for review but the company deemed it not up to standard because it didn't cite enough relevant research and was only sent in a day before the deadline to review, rather than two weeks. Gebru asked for further discussion with Google on threat of resigning if they did not provide it. The company declined, and just like that she was out. Just like that, Google just cut off one of the most cited and respected ethical AI researchers in her field. A company who truly valued its ethics work would never do such a thing. Although there is no proof of this, Gebru has claimed that she believes the decision to be retaliation for her willingness to speak out against Google's poor treatment of women and  employees of color. Later, Gebru's paper---claimed to be poorly cited---was accepted at a leading conference on fairness in machine learning.
+
+```{r, echo = FALSE, fig.show = 'hold', out.width = '50%', fig.cap = 'Ethical AI Team Member Timnit Gebru', fig.align='center'}
+knitr::include_graphics("images/gebru.jpg")
+```
+
+Google's actions against its AI team did not stop there, however. Around two weeks ago, researcher Margaret Mitchell (co-leader of the team, alongside Gebru) announced that she had been fired from Google. Google has claimed that the reason for Mitchell's firing was that she had shared "confidential business-sensitive documents and private data of other employees" outside the company. Although it is not clear exactly what happened, it was reported that Mitchell had been using a script to search her email for material related to Timnit Gebru's time at Google and rumor has it that her firing was directly related to that action. Again, Google did not hesitate to remove an incredibly influential and important researcher from its ethical AI team. Again, the explanation behind the decision seemed highly questionable. 
+
+```{r, echo = FALSE, fig.show = 'hold', out.width = '50%', fig.cap = 'Ethical AI Team Lead Margaret Mitchell', fig.align='center'}
+knitr::include_graphics("images/mitchell.jpg")
+```
+
+
+Ever since these stories from Google have come out, I have become extremely wary of the company. A company that constantly talks about ethics, but contradicts itself by removing two of its most prominent researchers on fairness is not one---in my opinion, that can be trusted. Even though they were seemingly incredibly unfair, I hope these incidents can inspire some positive change in the AI world. They've already spurred on much debate and anti-Google rhetoric on social media, and it's genuinely possible to see that debate turning into actual positive change in the future! 
+
+Until Google makes right what it has done so, so wrong, though, I cannot in good conscience support the company. The situation at Google is a disgrace and I sincerely hope other companies take note and do better.
+
+You can read more about Timnit Gebru's situation here: https://www.vox.com/recode/2020/12/4/22153786/google-timnit-gebru-ethical-ai-jeff-dean-controversy-fired
+
+And about Margaret Mitchell's here: https://www.wired.com/story/second-ai-researcher-says-fired-google/
