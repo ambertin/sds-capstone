@@ -18,6 +18,8 @@ navbar:
           href: post2.html
         - text: "Unequal Standards of Data Proof"
           href: post3.html
+        - text: "Reducing Visualization Bias"
+          href: post4.html
   right:
     - icon: fa-envelope 
       href: mailto:abertin@smith.edu

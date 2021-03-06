@@ -1,0 +1,20 @@
+---
+title: "What Can We Do To Reduce Visualization Bias?"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Chapter 3 of *Data Feminism* really made me ponder the question of whether a data visualization can ever be truly objective and free of bias, even if the designer takes deliberate action to try and make it as fair as possible. After thinking on it for a while, I've come to the conclusion that the answer is __no__. No matter how hard you attempt to remove bias from visualization, it is inherently the product of choice and design decisions which affect the interpretation of the final product must be made—there's no way around it. However, I do think there are several steps that we can take, as data scientists, to try to get as close as possible:
+
+
+1. Consider our likely audience of the visualization, as well as an audience that would likely never see it. Think about how the latter group might view the visualization differently than the former. If they would be mad at the results, ask ourselves why? If it is because of one of our design decisions, try to consider how to frame it in a way that would not displease that group as much, but would still be accurate and get the point across.
+
+2. On a related note, if possible, do not do all visualization alone, but rather as part of a group of people from diverse backgrounds. Share our visualizations with those who view things differently from us, and try to work together to build something that all of us are pleased with. This is likely not practical in many situations, but would be an excellent thing to do occasionally—if we become experienced at understanding how others view our work, then we can make adjustments in the future without directly handing our visualizations off to others.
+
+3. Do not look solely at the visualization work of others like us. Instead, look at the work of those who view things differently. This will make it harder to get stuck in a bubble of visualization bias.
+
+4. As mentioned in *Data Feminism*, disclose some basic information about ourselves alongside our work, to help make clear potential biases affecting our visualization choices. This information might include, but is not limited to: age, gender identity, political affiliation, religion, education level, income level.
+
+I understand that a visualization can never be truly neutral, but I think it is valuable to spend effort trying to achieve that state—or at least to understand the ways in which our own visualizations are not neutral and disclose our biases to the public. Biased visualization is incredibly pervasive, and at times, I believe it has the power to increase polarization in the country and drive people apart. Working to improve neutrality in visualization could be one step to help bridge our current divide.
