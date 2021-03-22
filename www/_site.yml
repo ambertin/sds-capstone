@@ -20,6 +20,8 @@ navbar:
           href: post3.html
         - text: "Reducing Visualization Bias"
           href: post4.html
+        - text: "Overwhelming Expectations in Data Science"
+          href: post5.html
   right:
     - icon: fa-envelope 
       href: mailto:abertin@smith.edu
