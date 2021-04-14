@@ -1,0 +1,14 @@
+---
+title: "Ethics Paper Topic"
+author: "Audrey Bertin"
+date: "4/14/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Ethics Essay Topic
+
+For my ethics essay, I want to try and merge my two primary areas of study (Data Science and Public Policy---my minor) and focus on the issue of policy as a means of regulating data sharing in the United States. I will attempt to argue the need for a nation-wide data ethics regulation in the US, considering problems such as data commodification and the risk-benefit tradeoffs of big data AI based on mass data collection--particularly addressing how they do seem to be easily solvable with any other technique---and discussing how one might be implemented, what it might look like, and the challenges in getting it passed. This work will hopefully build off some of the ideas discussed in our readings, but also on other data ethics research I have done in the past and on legal attempts to address the issue in regions other than the US---for example, the GDPR in the European Union, South Korea's Personal Information Protection Act, and Chile's constitutional amendment to declare data privacy a human right.
