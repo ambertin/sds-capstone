@@ -39,4 +39,55 @@ header-includes:
 knitr::opts_chunk$set(fig.pos = 'H')
 ```
 
+Problem setup:
+
+- In US, big challenge w/ information privacy:
+
+1. the internet of things (https://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=3622&context=bclr)
+
+2. data commodification -- data as capital (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiD8NynpIXwAhWnAZ0JHS2aDpsQFjACegQIAhAD&url=https%3A%2F%2Fresearch.monash.edu%2Ffiles%2F303893944%2F303893762_oa.pdf&usg=AOvVaw09nsGbgbaIQ7dJa-sP-ITn) (https://columbialawreview.org/content/paying-for-privacy-and-the-personal-data-economy/)
+
+3. Dangers:
+
+  - data breaches + data used against you (financial info, identity theft, health data particularly damaging)
+  - interest targeting a very powerful tool to cause dangerous psychological shifts (see FB scandal)
+  - tools to enable exclusion (see sexual orientation scanner, ER triage algorithms)
+  - bias
+  
+  https://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=3622&context=bclr
+  
+4. Current protections in us:
+  https://columbialawreview.org/content/paying-for-privacy-and-the-personal-data-economy/
+  https://iclg.com/practice-areas/data-protection-laws-and-regulations/usa
+  https://www.cfr.org/report/reforming-us-approach-data-protection
+
+6. What other countries have done that we haven't
+
+- GDPR in EU https://gdpr-info.eu
+- South Korea https://iapp.org/news/a/gdpr-matchup-south-koreas-personal-information-protection-act/ ,  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2904896
+- Chile https://cms.law/en/int/expert-guides/cms-expert-guide-to-data-protection-and-cyber-security-laws/chile https://www.eff.org/deeplinks/2020/09/look-back-and-ahead-data-protection-latin-america-and-spain 
+
+
+  
+5. Why it's hard for us to do the same
+
+- We don't currently have an agency that could be focused on managing data protection --- closest is FTC but they don't have oversight power of lots of private companies
+- Powerful tech lobby at federal level has huge leverage on voting
+- All the states are so different from one another so state-only laws would be a challenging patchwork if not controlled
+- potentially not enough public support. In US, we're just used to our data being used all the time. However, concern does seem to be growing.
+
+https://www.washingtonpost.com/news/powerpost/paloma/the-cybersecurity-202/2018/05/25/the-cybersecurity-202-why-a-privacy-law-like-gdpr-would-be-a-tough-sell-in-the-u-s/5b07038b1b326b492dd07e83/
+
+It COULD work though --- look at HIPAA!! It is super strict in the healthcare industry, and goes pretty smoothly. tech companies have adapted to make HIPAA compliant software
+
+7. What we should do
+
+DON'T TRY TO CREATE WHOLE PRIVACY LAW --- will not work in the current climate. No way to enforce and considerably too big of a jump. Work in smaller steps w/ less punishment
+
+- Create a data protection agency
+- focus on prevention, not monetary punishment (better incentives for companies)
+- widen the definition of what can count as a data-privacy related harm to afford more opportunities to individuals to take problems to court as well as what is considered sensitive data
+https://www.cfr.org/report/reforming-us-approach-data-protection
+- On the statewide level, if wanting to create laws, do so with an eye for making them consistent. Once a majority of states have them, more pressure for federal change
+- Eventually do need federal law. Should attempt to get both Republican and Democratic support which apparently already exists (https://www.theregreview.org/2021/03/13/saturday-seminar-how-should-united-states-protect-data/)
 
