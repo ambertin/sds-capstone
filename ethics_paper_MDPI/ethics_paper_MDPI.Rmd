@@ -51,6 +51,16 @@ There is also the danger that data, even in its intended use, can result in harm
 
 Data can also be used for psychological manipulation. Sites like Facebook and Twitter have a wealth of data on their users---enough to predict with high accuracy how they will react when exposed to certain stimuli. These sites can use that knowledge to spread targeted messages and actively change the beliefs held the public. This is what happened in the 2016 election, when Facebook's advertising system targeted those individuals it calculated to be likely susceptible to conservative messaging with advertisements that reflected the ideals of Donald Trump. Though not known for certain, it is widely believed that these advertisements may have convinced enough voters to support President Trump that he eventually won the election. (Source)
 
+The practice of mass data collection is far from ethically sound. In spirit---though never declared by law---it violates one of the founding principles of the United States: individuals' right to privacy. The right to privacy is a crucial foundation of this country. It was first officially alluded to in the Fourth Amendment to the constitution---though it is implied to some degree in the First, Third, and Fifth as well---and has been reinforced at the highest levels of the judicial system for centuries. 
+
+> The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.  -- Fourth Amendment
+
+It also puts individuals' First and Fourteenth Amendment rights at risk. Freedom of speech and of expression are placed at risk through the danger of data breeches---users who fear that their data may be taken and used by unauthorized individuals may refrain from sharing controversial opinions or personal information on religion, sexual orientation, or other sensitive matters online, for fear that it may be used against them, when they would have otherwise done so if not fearful of an information breach. The equal protection clause of the Fourteenth Amendment is likewise threatened. Although not necessary intentional, the bias present in the mass public/consumer data algorithms has the effect of treating equal groups differently, which---if used in certain circumstances---can violate the principle that all people deserve equal protection under the law.
+
+Despite all of the dangers and ethical concerns inherent in mass data collection, companies still continue to practice it because of the significant capital benefits.
+
+Lawmakers in the United States have recognized the problem and attempted to solve it through legislation, but their efforts have falleen short.
+
 
 Problem setup:
 
