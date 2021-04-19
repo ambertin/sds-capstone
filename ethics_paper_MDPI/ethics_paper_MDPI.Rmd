@@ -63,7 +63,9 @@ Despite all of the dangers and ethical concerns inherent in mass data collection
 
 Healthcare data is by far the most protected variety, though even it lacks a clear and comprehensive piece of legislation. The Health Insurance Portability and Accountability Act (HIPAA) only applies to certain "covered entities," the list of which is often unclear to the general public. Student health records are covered under a different law, the Family Educational Rights and Privacy Act, which occasionally combines or conflicts with the Children's Online Protection Privacy Act (COPPA), meant only to protect the data of children under 13 years of age.
 
-This failure to protect personal data is unique among the Western industrialized countries.
+This failure to protect personal data is unique in the industrialized world. 128 countries out of 194 worldwide have put in place national data protection laws (https://unctad.org/page/data-protection-and-privacy-legislation-worldwide), many of which are quite strict and offer citizens significant control over the use of their data.
+
+Citizens of the European Union (EU) are protected under the Global Data Protection Regulation (GDPR), a comprehensive piece of data privacy legislation which gives individuals in the EU the power to control what data is collected on them and what is done with it in addition to restricting the transfer of personal data from EU members to other countries.
 
 
 Problem setup:
