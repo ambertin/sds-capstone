@@ -53,8 +53,6 @@ Data can also be used for psychological manipulation. Sites like Facebook and Tw
 
 The practice of mass data collection is far from ethically sound. In spirit---though never declared by law---it violates one of the founding principles of the United States: individuals' right to privacy. The right to privacy is a crucial foundation of this country. It was first officially alluded to in the Fourth Amendment to the constitution---though it is implied to some degree in the First, Third, and Fifth as well---and has been reinforced at the highest levels of the judicial system for centuries. 
 
-> The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.  -- Fourth Amendment
-
 It also puts individuals' First and Fourteenth Amendment rights at risk. Freedom of speech and of expression are placed at risk through the danger of data breeches---users who fear that their data may be taken and used by unauthorized individuals may refrain from sharing controversial opinions or personal information on religion, sexual orientation, or other sensitive matters online, for fear that it may be used against them, when they would have otherwise done so if not fearful of an information breach. The equal protection clause of the Fourteenth Amendment is likewise threatened. Although not necessary intentional, the bias present in the mass public/consumer data algorithms has the effect of treating equal groups differently, which---if used in certain circumstances---can violate the principle that all people deserve equal protection under the law.
 
 Now, more than ever, Americans have lost faith in the ability of companies to protect their private data, and trends only seem to be getting worse (http://www.pewinternet.org/2017/01/26/americans-and-cybersecurity/).
@@ -90,14 +88,9 @@ In the mean-time, states should continue to create their own data privacy regula
 
 In the long run, however, a state-by-state patchwork will not be sufficient and we will need a comprehensive federal law to ensure that guidelines are consistent and all citizens are protected. The passing of this legislation should be done with great care. Lawmakers should focus primarily on methods for prevention of privacy failures, rather than on mechanisms for punishment after the fact. This will ensure that the financial harms to technology companies---in the form of large non-compliance fines---will be minimized, making the law more palatable to the technology lobby. Due to the significant political polarization in United States, it is also important to ensure that any data privacy regulations that are suggested are written in a way that is favorable to both the Democratic and Republican parties---and, if possible, put forward by a bipartisan coalition---so that the law is not put on hold for political reasons. There is evidence that members of both parties have been supportive of privacy regulation in the past (https://www.commerce.senate.gov/2020/6/cantwell-cassidy-and-klobuchar-introduce-bipartisan-legislation-to-protect-consumer-privacy-promote-public-health-for-covid-19-exposure-notification-apps), so this goal is not un-achievable.
 
-This should be done 
+The road to comprehensive data privacy legislation in the United States is not an easy one, but it is important to uphold a standard of data ethics and ensure that our citizens do not face dangerous outcomes from the large-scale data collection happening in this country. Although the US is still far behind much of the industrialized world in terms of protecting its consumers' data privacy, and many obstacles lie in the way of changing this, with the right focus and a carefully planned course of action, this has the potential to change for the better in the coming years.
 
-- Create a data protection agency
-- focus on prevention, not monetary punishment (better incentives for companies)
-- widen the definition of what can count as a data-privacy related harm to afford more opportunities to individuals to take problems to court as well as what is considered sensitive data
-https://www.cfr.org/report/reforming-us-approach-data-protection
-- On the statewide level, if wanting to create laws, do so with an eye for making them consistent. Once a majority of states have them, more pressure for federal change
-- Eventually do need federal law. Should attempt to get both Republican and Democratic support which apparently already exists (https://www.theregreview.org/2021/03/13/saturday-seminar-how-should-united-states-protect-data/)
+
 
 
 
