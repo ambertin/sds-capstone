@@ -1,5 +1,5 @@
 ---
-title: "Ethics Paper"
+title: "Data Collection in the US: Policy Recommendations for Protecting Individuals' Privacy"
 author:
   - name: Audrey Bertin
     affil: 1 
@@ -15,18 +15,11 @@ type: article
 status: submit
 bibliography: citations.bib
 appendix: appendix.tex
-simplesummary: |
-  A Simple summary goes here.
+
 abstract: |
-  [Coming soon]
-keywords: |
-  keyword 1; keyword 2; keyword 3 (list three to ten pertinent keywords specific 
-  to the article, yet reasonably common within the subject discipline.).
-acknowledgement: |
-  All sources of funding of the study should be disclosed. Please clearly 
-  indicate grants that you have received in support of your research work. 
-  Clearly state if you received funds for covering the costs to publish in open 
-  access.
+  The US is currently facing challenges with data privacy. In the modern age, the personal information of millions of Americans is collected and tracked daily. Data has essentially become a currency, with companies putting ethics aside to try and collect as much data---and therefore as much profit---as possible, threatening individuals' rights to privacy and placing them at risk of harm. Unlike many other developed countries, the US has taken little action at the national level to address this issue. We consider why that is and propose recommendations for how the US can proceed to address the issue through policy.
+  
+
   
 output: rticles::mdpi_article
 
