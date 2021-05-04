@@ -66,8 +66,8 @@ Despite our apparent constitutional focus on privacy, it is clear that the Unite
 
 Perhaps the most important factor in preventing nationwide data privacy regulation is the role of the technology lobby in politics. Many of the world's most powerful technology companies are headquartered in the United States: Facebook, Google, Microsoft, Twitter, and Oracle, to name a few. Bringing in hundreds of billions of dollars in revenue, these companies play a pivotal role in the US economy, and as a result have a lot of political power. Their massive profit margins enable these companies to lobby the US government, preventing the passing of laws and policies that are not in their best financial interest. Alphabet Inc, the parent company of Google, spent 21.74 million dollars trying to affect US policy in 2018 (@tech-lobby), and Facebook spent 19.68 million in 2020. (@citizen-tech). Technology companies have now surpassed Big Oil and Big Tobbacco---the previous most powerful lobbying groups---as the biggest spenders in US politics, and their spending is only increasing over time (@citizen-tech). A privacy law is counter to these companies' best interests. Additional requirements for data security, limitations on what can be collected, and financial punishments for non-compliance risk damaging these companies' profits, which rely partially on large-scale data collection. Technology companies do not want to see a privacy law passed, and have the funding and power available to prevent any drastic changes from happening.
 
-```{r, out.width = "100%", echo = FALSE, fig.cap = "Source: https://www.citizen.org/article/big-tech-lobbying-update/"}
-knitr::include_graphics("lobby-spending.png")
+```{r, out.width = "100%", echo = FALSE, fig.cap = "Big Tech replaces Big Oil and Tobacco as big lobbying spenders: Total lobbying spending in Washington vs Facebook and Amazon's lobbying spending (2010-2020). Source: https://www.citizen.org/article/big-tech-lobbying-update/"}
+knitr::include_graphics("lobby-notitle.png")
 ```
 
 
